@@ -110,7 +110,7 @@ fieldset {
 }
 
 .section-space-padding {
-    padding: 100px 0px;
+    padding: 20px 0px;
 }
 
 .section-title {
@@ -330,7 +330,7 @@ body.loaded #preloader{
 .home-section-background {
     position: relative;
     height: 100%;
-    background: url(../images/bg/bg.jpg);
+    background: url(../images/bg/bg2.jpg);
     background-size: cover;
     z-index: 1;
 }
@@ -497,8 +497,8 @@ body.loaded #preloader{
 }
 
 .about-me p {
-	padding: 50px;
-	font-size: 15px;
+	padding: 20px;
+	font-size: 13px;
 }
 
 
