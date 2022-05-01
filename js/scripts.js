@@ -183,15 +183,16 @@
     });
 
     /* Google Map */
-
+    //-----------------------------------------NOT OPERATIONAL YET----------------------
     $("#my-address").gMap({
       zoom: 5,
       scrollwheel: true,
       maptype: "ROADMAP",
       markers: [
         {
-          address: "New York" /* You can change your address from here */,
-          html: "<b>Address</b>: <br> Area-2, Rose Area, New York, U.S.A." /* You can change display address text from here */,
+          address:
+            "54 Waymouth Street, Adelaide, Australia" /* You can change your address from here */,
+          html: "<b>Address</b>: <br> 54 Waymouth Street, Adelaide, Australia." /* You can change display address text from here */,
           popup: true,
         },
       ],
