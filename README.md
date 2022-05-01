@@ -1,5 +1,3 @@
-# KReilly_Portfolio
-
 # **Kym Reilly | Portfolio**
 
 ## **App URL**
@@ -8,11 +6,11 @@ https://frygit87.github.io/KReilly_Portfolio/
 
 ## **Goals**
 
-Taking what we know of Kym Reilly and applying it to a 3-5 minute read for those savvy employers looking to find out a little extra about him.
+Taking what we know of Kym Reilly and applying it to a 5 minute read for those savvy employers looking to find out a little extra about him.
 
 ## **Tasks**
 
-Provide a user-friendly synopsis of the out-going, motivated and resourceful individual that is Kym Reilly.
+Provide a user-friendly synopsis of the out-going, motivated and resourceful individual known as Kym Reilly.
 
     ✅  Provide examples of previous work
     ✅  Name and contact details found in sticky navigation bar
