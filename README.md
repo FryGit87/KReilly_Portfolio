@@ -22,4 +22,4 @@ Provide a user-friendly synopsis of the out-going, motivated and resourceful ind
 
 ## **Web App**
 
-![Opening Image](./images/screenshots/open.png)
+![Opening Image](./assets/images/screenshots/open.png)
